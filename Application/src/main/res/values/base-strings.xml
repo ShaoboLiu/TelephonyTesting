@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">Telephony Testing</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            Telephony Testing \n\nA 1) use the ConnectivityManager to detect network connection.
+            
+        
+        ]]>
+    </string>
+</resources>
